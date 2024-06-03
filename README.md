@@ -1,5 +1,5 @@
 BEM VINDOS AO MEU PERFIL 🖤🖤
-Meu nome é Gabriele Ananias
+**Meu nome é Gabriele Ananias**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
